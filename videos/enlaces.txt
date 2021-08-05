@@ -1,3 +1,5 @@
-//Si algún video no se ha procesado, este puede descargarse
+//Si algún video no pudo o sigue siendo procesado por google drive, este puede ser descargado
 
-Primer video: https://drive.google.com/file/d/17rlr6-QweRs0mvVmEeC7-iyjzyImSALq/view?usp=sharing 
+Enlace del primer video: https://drive.google.com/file/d/17rlr6-QweRs0mvVmEeC7-iyjzyImSALq/view?usp=sharing 
+
+Enlace del segundo video: https://drive.google.com/file/d/1Mrs0xNThvR85eFxY_n2IWFFnCQ9Cyz0I/view?usp=sharing
