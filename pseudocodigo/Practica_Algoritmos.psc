@@ -16,7 +16,7 @@ Funcion ProcedimientoTablaMultiplicar (num)
 	Fin Para
 	
 	saltoDeLinea();
-	Escribir "Presiona cualquier tecla para volver al menú.";
+	Escribir "Presiona cualquier tecla para volver al menú principal.";
 	
 	pausa();
 Fin Funcion
@@ -55,7 +55,7 @@ Funcion  ProcedimientoMostrarEvaluacionPrimo (num)
 	Fin Si
 	
 	saltoDeLinea();
-	Escribir "Presiona cualquier tecla para volver al menú.";
+	Escribir "Presiona cualquier tecla para volver al menú principal.";
 	pausa();
 Fin Funcion
 
@@ -85,9 +85,7 @@ Funcion ProcedimientoDiagonalesMatriz ()
 				opcionElegida = 2;
 			De Otro Modo:
 				opcionElegida = 0;
-				
 				Escribir "La opción que elegiste no existe, presiona cualquier tecla para volver a intentarlo.";
-				
 				pausa();
 		Fin Segun
 	Fin Mientras
@@ -150,7 +148,7 @@ Funcion ProcedimientoDiagonalesMatriz ()
 	Escribir diagonalSecundaria;
 	
 	saltoDeLinea();
-	Escribir "Presione cualquier tecla para volver al menú.";
+	Escribir "Presione cualquier tecla para volver al menú principal.";
 	pausa();
 Fin Funcion
 
