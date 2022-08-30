@@ -43,3 +43,27 @@ Cuando muestre el resultado, hacer una pausa utilizando un temporizador o una te
 Opción 5.  Mientras no se pulse la opción No. 5, el programa estará ejecutando y mostrando la opción correspondiente que se seleccione.  
 
 Tan pronto se pulse esta opción, limpiará la pantalla, desplegando posteriormente un mensaje que diga "Fin del Programa".  Al realizar esto, finalizar la ejecución misma del Programa.
+
+
+# Resultado de la Solucion
+
+## Estado inicial del programa 
+![PA0](https://user-images.githubusercontent.com/71516416/187479982-99759c22-6a24-453b-9d8c-096c45707890.png)
+
+## Estado luego de ingresar un valor
+![PA1](https://user-images.githubusercontent.com/71516416/187480117-7de39591-3564-4fa1-b6da-086e138967e5.png)
+
+## Al generar tabla de multiplicar
+![PA2](https://user-images.githubusercontent.com/71516416/187480250-2a917914-6b68-4529-a54e-d24c6b124639.png)
+
+Se genera una tabla con el valor actual en el menú principal
+
+## Al comprobar si el valor es un numero primo
+![PA3](https://user-images.githubusercontent.com/71516416/187480466-4818ec1d-54d9-4c23-bb22-e5f92ad7c384.png)
+
+## Al generar una matriz 4x4
+![PA4](https://user-images.githubusercontent.com/71516416/187480593-01ddb7b1-dc6f-4f76-a679-2a6a0681a6e3.png)
+
+Se puede generar la matriz aleatoriamente o asignando los valores manualmente
+
+
